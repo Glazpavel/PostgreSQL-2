@@ -91,6 +91,7 @@ JIT:
 "  Options: Inlining false, Optimization false, Expressions true, Deforming true"
 "  Timing: Generation 2.197 ms, Inlining 0.000 ms, Optimization 1.561 ms, Emission 25.410 ms, Total 29.168 ms"
 Execution Time: 882.042 ms
+```
 
 ## 2. Создал индексы на внешние ключи
 ```
